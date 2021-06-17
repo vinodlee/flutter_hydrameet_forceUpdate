@@ -3,10 +3,10 @@
     <channel>
         <title>HydraMeet NIC</title>
         <item>
-            <title>Version 1.0.6</title>
+            <title>Version 1.0.7</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Thursday, 01 April 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.instrive.com.hydrameetnic" sparkle:version="1.0.6" sparkle:os="android" />
+            <pubDate>Thursday, 17 Jun 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.instrive.com.hydrameetnic" sparkle:version="1.0.7" sparkle:os="android" />
         </item>
     </channel>
 </rss>
